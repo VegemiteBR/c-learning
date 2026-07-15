@@ -1,7 +1,7 @@
 
 C is an older language compared to other languages in use and yet it is still very popular. The [TIOBE Index](https://www.tiobe.com/tiobe-index/), which measures the popularity of programming languages, has C at the top of the list for many years. This is due to C’s use in all areas of computing.
 
-Most operating systems today including the Linux Kernel are implemented with C code. The main version of the Python programming language is named CPython because it is implemented using C. C has also been extended using the languages C++ and C#.
+Most operating systems today including the Linux Kernel are implemented with C code. The main version of the Python programming language is named C Python because it is implemented using C. C has also been extended using the languages C++ and C#.
 
 C is also common in embedded systems which are smaller computing units that control things like home appliances, lighting controllers, and other small physical devices.
 
