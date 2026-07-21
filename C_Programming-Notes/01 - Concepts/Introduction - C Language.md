@@ -28,7 +28,7 @@ int main() {
 > 
 > 	`#include` library can be include through <> or "" 
 > 	
-> 	![[Pasted image 20260716005354.png]]
+![[Pasted image 20260716005354.png]]
 > https://www.geeksforgeeks.org/c/c-c-include-directive-with-examples/
 
 > [!NOTE] **`int main(){ }`** :
